@@ -1,0 +1,11 @@
+Package: project
+Version: 1.0
+Architecture: amd64
+Maintainer: Md. Minhazul Haque <mdminhazulhaque@gmail.com>
+Installed-Size: 41
+Depends: libc6 (>= 2.15)
+Section: dev
+Priority: optional
+Homepage: https://minhazulhaque.com
+Description: project
+ Welcome to my awesome prohject.
